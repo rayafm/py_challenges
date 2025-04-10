@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 # Assignment
 # Complete the median_followers() function to find the median follower count of the given list of numbers.
 
 # Order matters - You'll probably want to use the sorted() function to help you out. 
 # Be sure to appropriately handle lists of even length.
 
-=======
->>>>>>> 7539acde479b6f55dea02395575dcbb9b49d5206
 def median_followers(nums):
     sorted_nums = sorted(nums) 
     median = 0
